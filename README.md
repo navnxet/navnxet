@@ -4,7 +4,8 @@ Hi 👋 My name is Navneet Singh
 Web Developer and Designer
 --------------------------
 
-Hello and welcome to my GitHub profile! I'm Navneet Singh, a passionate and experienced Full-Stack Web Developer. I have a strong background in web development, with a focus on building robust and scalable web applications. My journey in the world of programming began in 2023, and I've had the privilege of working with a wide range of technologies and frameworks. 🌟 Let's Connect I'm always eager to connect with fellow developers. Feel free to reach out to me via GitHub, or connect with me on Mail:- navneetpna@gmail.com for discussions. Thank you for visiting my GitHub profile. Let's collaborate, learn, and build amazing things together in the world of web development! 🚀 Happy Coding! 🖥️🚀
+Hello and welcome to my GitHub profile! I'm Navneet Singh, a passionate and experienced Full-Stack Web Developer. I have a strong background in web development, with a focus on building robust and scalable web applications. My journey in the world of programming began in 2023, and I've had the privilege of working with a wide range of technologies and frameworks. 🌟 Let's Connect I'm always eager to connect with fellow developers. Feel free to reach out to me via GitHub, or connect with me on Mail:- navneetpna@gmail.com for discussions. Thank you for visiting my GitHub profile. Let's collaborate, learn, and build amazing things together in the world of web development!
+🚀 Happy Coding! 🖥️🚀
 
 *   🌍  I'm based in India
 *   🖥️  See my portfolio at [navnxet](http://navnxet.vercel.app)
@@ -12,8 +13,7 @@ Hello and welcome to my GitHub profile! I'm Navneet Singh, a passionate and expe
 *   🚀  I'm currently working on [Youtube Clone](http://navtube.vercel.app)
 *   🧠  I'm learning MERN Stack Web Development
 *   🤝  I'm open to collaborating on interesting projects
-  </br>
-  <a href="https://www.github.com/navnxet" target="_blank" rel="noreferrer"><img
+*   <a href="https://www.github.com/navnxet" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/github/followers/navnxet?logo=github&style=for-the-badge&color=facc15&labelColor=181824" /></a>
 ### Skills 
 <p align="left">
@@ -148,7 +148,7 @@ Hello and welcome to my GitHub profile! I'm Navneet Singh, a passionate and expe
                     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" />
                     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" height="32" />
                     </picture></a></p>
-### Support Me
-<div style="display: flex; align-items:center;">
+                    
+<div style="display: flex; align-items:center; gap:4;">
   <a href="https://www.buymeacoffee.com/navnxet"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a>
 <a href="https://www.ko-fi.com/navnxet"><img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" width="150"/></a></div>
