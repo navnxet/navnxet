@@ -12,7 +12,7 @@ Hello and welcome to my GitHub profile! I'm Navneet Singh, a passionate and expe
 *   🚀  I'm currently working on [Youtube Clone](http://navtube.vercel.app)
 *   🧠  I'm learning MERN Stack Web Development
 *   🤝  I'm open to collaborating on interesting projects
-*   <a href="https://www.github.com/navnxet" target="_blank" rel="noreferrer"><img
+  <a href="https://www.github.com/navnxet" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/github/followers/navnxet?logo=github&style=for-the-badge&color=facc15&labelColor=181824" /></a>
 ### Skills 
 <p align="left">
@@ -147,7 +147,7 @@ Hello and welcome to my GitHub profile! I'm Navneet Singh, a passionate and expe
                     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" />
                     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" height="32" />
                     </picture></a></p>
-### Badges
+### Badges 
 </br>
 <a
                       href="http://www.github.com/navnxet"><img src="https://github-readme-stats.vercel.app/api?username=navnxet&show_icons=true&hide=&count_private=true&title_color=facc15&text_color=ffffff&icon_color=facc15&bg_color=0d1117&hide_border=true&show_icons=true" alt="navnxet's GitHub stats" /></a><a
