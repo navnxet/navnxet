@@ -12,6 +12,7 @@ Hello and welcome to my GitHub profile! I'm Navneet Singh, a passionate and expe
 *   🚀  I'm currently working on [Youtube Clone](http://navtube.vercel.app)
 *   🧠  I'm learning MERN Stack Web Development
 *   🤝  I'm open to collaborating on interesting projects
+  </br>
   <a href="https://www.github.com/navnxet" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/github/followers/navnxet?logo=github&style=for-the-badge&color=facc15&labelColor=181824" /></a>
 ### Skills 
@@ -147,10 +148,7 @@ Hello and welcome to my GitHub profile! I'm Navneet Singh, a passionate and expe
                     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" />
                     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" height="32" />
                     </picture></a></p>
-### Badges 
-</br>
-<a
-                      href="http://www.github.com/navnxet"><img src="https://github-readme-stats.vercel.app/api?username=navnxet&show_icons=true&hide=&count_private=true&title_color=facc15&text_color=ffffff&icon_color=facc15&bg_color=0d1117&hide_border=true&show_icons=true" alt="navnxet's GitHub stats" /></a><a
-                      href="http://www.github.com/navnxet"><img
-                  src="https://github-readme-streak-stats.herokuapp.com/?user=navnxet&stroke=ffffff&background=0d1117&ring=facc15&fire=facc15&currStreakNum=ffffff&currStreakLabel=facc15&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a><a href="https://github.com/navnxet" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=navnxet&langs_count=10&title_color=facc15&text_color=ffffff&icon_color=facc15&bg_color=0d1117&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-### Support Me<ul style="list-style: none; margin: 0; display: flex;"><li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/navnxet"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li><li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.ko-fi.com/navnxet"><img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" width="150"/></a></li></ul>
+### Support Me
+<div style="display: flex; align-items:center;">
+  <a href="https://www.buymeacoffee.com/navnxet"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a>
+<a href="https://www.ko-fi.com/navnxet"><img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" width="150"/></a></div>
