@@ -4,7 +4,7 @@
 
 I'm a passionate full-stack developer. I have a strong background in web development, with a focus on building robust and scalable web applications.
 My journey in the world of programming began in 2023, and I've had the privilege of working with a wide range of technologies and frameworks.
-<br/><br/>
+<br/>
 
 🖥️ See my portfolio at [navnxet](http://navnxet.vercel.app).<br/>
 ✉️ You can contact me at [navneetpna@gmail.com](mailto:navneetpna@gmail.com).<br/>
