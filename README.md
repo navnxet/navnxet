@@ -3,7 +3,9 @@
 **`Full Stack Web Developer/Designer`**
 
 I'm a passionate full-stack developer. I have a strong background in web development, with a focus on building robust and scalable web applications.
-My journey in the world of programming began in 2023, and I've had the privilege of working with a wide range of technologies and frameworks. 
+My journey in the world of programming began in 2023, and I've had the privilege of working with a wide range of technologies and frameworks.
+🖥️ See my portfolio at [navnxet](http://navnxet.vercel.app).<br/>
+✉️ You can contact me at [navneetpna@gmail.com](mailto:navneetpna@gmail.com).<br/>
 
 <a href="https://github.com/navnxet?tab=followers" style="padding-right:10px;">
    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/navnxet?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Followers&logoColor=white"/>
@@ -12,13 +14,6 @@ My journey in the world of programming began in 2023, and I've had the privilege
    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/navnxet?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
 </a>
 <br/><br/>
-
-🌍 I'm based in India.<br/>
-🖥️ See my portfolio at [navnxet](http://navnxet.vercel.app).<br/>
-✉️ You can contact me at [navneetpna@gmail.com](mailto:navneetpna@gmail.com).<br/>
-🚀 I'm currently working on [Youtube Clone](http://navtube.vercel.app).<br/>
-🧠 I'm learning MERN Stack Web Development.<br/>
-🤝 I'm open to collaborating on interesting projects.
 
 ### 🌟 Languages & Tools
 
