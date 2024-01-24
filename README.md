@@ -12,14 +12,14 @@ My journey in the world of programming began in 2023, and I've had the privilege
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/navnxet?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
    </p>
 
---
+--------------------------
 
-*   🌍  I'm based in India
-*   🖥️  See my portfolio at [navnxet](http://navnxet.vercel.app)
-*   ✉️  You can contact me at [navneetpna@gmail.com](mailto:navneetpna@gmail.com)
-*   🚀  I'm currently working on [Youtube Clone](http://navtube.vercel.app)
-*   🧠  I'm learning MERN Stack Web Development
-*   🤝  I'm open to collaborating on interesting projects
+🌍  I'm based in India
+🖥️  See my portfolio at [navnxet](http://navnxet.vercel.app)
+✉️  You can contact me at [navneetpna@gmail.com](mailto:navneetpna@gmail.com)
+🚀  I'm currently working on [Youtube Clone](http://navtube.vercel.app)
+🧠  I'm learning MERN Stack Web Development
+🤝  I'm open to collaborating on interesting projects
 
 🌟 Let's collaborate, learn, and build amazing things together in the world of web development!
 ### Skills 
