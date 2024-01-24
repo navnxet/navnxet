@@ -1,8 +1,6 @@
-Hi 👋 My name is Navneet Singh
-==============================
+# 🏄‍♂️ Navneet Singh
 
-Web Developer and Designer
---------------------------
+**`Web Developer/Designer)`**
 
 Hello and welcome to my GitHub profile! I'm Navneet Singh, a passionate and experienced Full-Stack Web Developer. I have a strong background in web development, with a focus on building robust and scalable web applications. My journey in the world of programming began in 2023, and I've had the privilege of working with a wide range of technologies and frameworks. 🌟 Let's Connect I'm always eager to connect with fellow developers. Feel free to reach out to me via GitHub, or connect with me on Mail:- navneetpna@gmail.com for discussions. Thank you for visiting my GitHub profile. Let's collaborate, learn, and build amazing things together in the world of web development!
 🚀 Happy Coding! 🖥️🚀
