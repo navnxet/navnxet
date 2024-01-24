@@ -19,7 +19,7 @@ My journey in the world of programming began in 2023, and I've had the privilege
 🧠 I'm learning MERN Stack Web Development.<br/>
 🤝 I'm open to collaborating on interesting projects.
 
-### 🌟 Languages
+### 🌟 Languages & Tools
 
 <img title="HTML" align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img title="CSS" align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
@@ -36,9 +36,6 @@ My journey in the world of programming began in 2023, and I've had the privilege
 <img title="Next JS" align="left" alt="Next JS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
 <img title="Docker" align="left" alt="Docker" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" />
 <br /><br />
-
-### 🛠 Tools
-
 <img title="C" align="left" alt="C" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" />
 <img title="C++" align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" />
 <img title="Python" align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
