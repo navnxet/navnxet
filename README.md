@@ -14,7 +14,7 @@ My journey in the world of programming began in 2023, and I've had the privilege
 
 --------------------------
 
-<ul style="list-style: none">
+<ul style="list-style-type: none;">
     <li>🌍 I'm based in India.</li>
     <li>🖥️ See my portfolio at [navnxet](http://navnxet.vercel.app).</li>
     <li>✉️ You can contact me at [navneetpna@gmail.com](mailto:navneetpna@gmail.com).</li>
