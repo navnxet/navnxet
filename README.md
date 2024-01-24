@@ -5,12 +5,14 @@
 I'm a passionate full-stack developer. I have a strong background in web development, with a focus on building robust and scalable web applications.
 My journey in the world of programming began in 2023, and I've had the privilege of working with a wide range of technologies and frameworks. 
 
-   <p align="left">
-      <a href="https://github.com/navnxet?tab=followers">
-         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/navnxet?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Followers&logoColor=white"/></a>
-      <a href="https://github.com/navnxet?tab=repositories&sort=stargazers">
-         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/navnxet?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-   </p>
+<p align="left">
+   <a href="https://github.com/navnxet?tab=followers">
+      <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/navnxet?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Followers&logoColor=white"/>
+   </a>
+   <a href="https://github.com/navnxet?tab=repositories&sort=stargazers">
+      <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/navnxet?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
+   </a>
+</p>
 
 🌍 I'm based in India.<br/>
 🖥️ See my portfolio at [navnxet](http://navnxet.vercel.app).<br/>
@@ -56,5 +58,10 @@ My journey in the world of programming began in 2023, and I've had the privilege
 
                
 <div style="display: flex; align-items:center; gap:4;">
-  <a href="https://www.buymeacoffee.com/navnxet"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a>
-<a href="https://www.ko-fi.com/navnxet"><img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" width="150"/></a></div>
+   <a href="https://www.buymeacoffee.com/navnxet">
+      <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/>
+   </a>
+   <a href="https://www.ko-fi.com/navnxet">
+      <img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" width="150"/>
+   </a>
+</div>
