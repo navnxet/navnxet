@@ -50,8 +50,11 @@ My journey in the world of programming began in 2023, and I've had the privilege
 <img title="Facebook" align="left" alt="Facebook" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" />
 <img title="LinkedIn" align="left" alt="LinkedIn" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/>
 <img title="Behance" align="left" alt="Behance" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/behance/behance-original.svg" />
-<br/><br/>
-                    
+<br/>
+
+###
+
+               
 <div style="display: flex; align-items:center; gap:4;">
   <a href="https://www.buymeacoffee.com/navnxet"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a>
 <a href="https://www.ko-fi.com/navnxet"><img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" width="150"/></a></div>
