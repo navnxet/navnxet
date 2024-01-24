@@ -4,7 +4,8 @@
 
 I'm a passionate full-stack developer. I have a strong background in web development, with a focus on building robust and scalable web applications.
 My journey in the world of programming began in 2023, and I've had the privilege of working with a wide range of technologies and frameworks.
-<br/>
+<br/><br/>
+
 🖥️ See my portfolio at [navnxet](http://navnxet.vercel.app).<br/>
 ✉️ You can contact me at [navneetpna@gmail.com](mailto:navneetpna@gmail.com).<br/>
 
@@ -14,7 +15,7 @@ My journey in the world of programming began in 2023, and I've had the privilege
 <a href="https://github.com/navnxet?tab=repositories&sort=stargazers" style="padding-right:10px;">
    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/navnxet?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
 </a>
-<br/><br/>
+<br/>
 
 ### 🌟 Languages & Tools
 
