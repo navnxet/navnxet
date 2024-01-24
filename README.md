@@ -19,7 +19,7 @@ My journey in the world of programming began in 2023, and I've had the privilege
 🧠 I'm learning MERN Stack Web Development.<br/>
 🤝 I'm open to collaborating on interesting projects.
 
-### 🧰 Languages
+### 🌟 Languages
 
 <img title="HTML" align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img title="CSS" align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
