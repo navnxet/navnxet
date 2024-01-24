@@ -5,8 +5,6 @@
 I'm a passionate full-stack developer. I have a strong background in web development, with a focus on building robust and scalable web applications.
 My journey in the world of programming began in 2023, and I've had the privilege of working with a wide range of technologies and frameworks. 
 
-🌟 Let's collaborate, learn, and build amazing things together in the world of web development!
-
    <p align="left">
       <a href="https://github.com/navnxet?tab=followers">
          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/navnxet?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Followers&logoColor=white"/></a>
