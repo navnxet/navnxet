@@ -56,12 +56,9 @@ My journey in the world of programming began in 2023, and I've had the privilege
 
 ###
 
-               
-<div style="display: flex; align-items:center; gap:4;">
-   <a href="https://www.buymeacoffee.com/navnxet">
-      <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/>
-   </a>
-   <a href="https://www.ko-fi.com/navnxet">
-      <img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" width="150"/>
-   </a>
-</div>
+<a href="https://www.buymeacoffee.com/navnxet">
+   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/>
+</a>
+<a href="https://www.ko-fi.com/navnxet">
+   <img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" width="150"/>
+</a>
