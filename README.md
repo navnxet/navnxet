@@ -5,14 +5,12 @@
 I'm a passionate full-stack developer. I have a strong background in web development, with a focus on building robust and scalable web applications.
 My journey in the world of programming began in 2023, and I've had the privilege of working with a wide range of technologies and frameworks. 
 
-<p align="left">
-   <a href="https://github.com/navnxet?tab=followers">
-      <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/navnxet?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Followers&logoColor=white"/>
-   </a>
-   <a href="https://github.com/navnxet?tab=repositories&sort=stargazers">
-      <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/navnxet?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
-   </a>
-</p>
+<a href="https://github.com/navnxet?tab=followers" style="padding-right:10px;">
+   <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/navnxet?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Followers&logoColor=white"/>
+</a>
+<a href="https://github.com/navnxet?tab=repositories&sort=stargazers" style="padding-right:10px;">
+   <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/navnxet?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
+</a>
 
 🌍 I'm based in India.<br/>
 🖥️ See my portfolio at [navnxet](http://navnxet.vercel.app).<br/>
@@ -52,13 +50,3 @@ My journey in the world of programming began in 2023, and I've had the privilege
 <img title="Facebook" align="left" alt="Facebook" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" />
 <img title="LinkedIn" align="left" alt="LinkedIn" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/>
 <img title="Behance" align="left" alt="Behance" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/behance/behance-original.svg" />
-<br/><br/>
-
-###
-
-<a href="https://www.buymeacoffee.com/navnxet">
-   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/>
-</a>
-<a href="https://www.ko-fi.com/navnxet">
-   <img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" width="150"/>
-</a>
