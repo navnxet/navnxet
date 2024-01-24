@@ -30,7 +30,7 @@ My journey in the world of programming began in 2023, and I've had the privilege
 <img title="Express JS" align="left" alt="Express JS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
 <img title="Mongo DB" align="left" alt="Mongo DB" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
 <img title="React JS" align="left" alt="React JS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img title="Next JS" align="left" alt="Next JS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
+<img title="Next JS" align="left" alt="Next JS" width="30px" style="padding-right:10px;" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.drupal.org%2Fproject%2Fnext&psig=AOvVaw1Eblz4lRoOaHlo99UHp9Yj&ust=1706193382212000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCJjNsuqf9oMDFQAAAAAdAAAAABAD" />
 <img title="Docker" align="left" alt="Docker" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" />
 <br/>
 
