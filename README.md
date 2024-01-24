@@ -8,8 +8,8 @@ My journey in the world of programming began in 2023, and I've had the privilege
 🌟 Let's collaborate, learn, and build amazing things together in the world of web development!
 
    <p align="left">
-      <a href="https://github.com/navnxet?tab=follow">
-         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/navnxet?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+      <a href="https://github.com/navnxet?tab=followers">
+         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/navnxet?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Followers&logoColor=white"/></a>
       <a href="https://github.com/navnxet?tab=repositories&sort=stargazers">
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/navnxet?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
    </p>
