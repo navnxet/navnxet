@@ -47,5 +47,5 @@ My journey in the world of programming began in 2023, and I've had the privilege
 
 <img title="Facebook" align="left" alt="Facebook" width="30px" style="padding-right:10px;" src="./assets/facebook.svg" />
 <img title="Instagram" align="left" alt="Behance" width="30px" style="padding-right:10px;" src="./assets/instagram.svg" />
-<img title="X" align="left" alt="LinkedIn" width="30px" style="padding-right:10px;" src="./assets/x.svg"/>
+<img title="X" align="left" alt="LinkedIn" style="padding-right:10px;" src="./assets/x.svg"/>
 <img title="LinkedIn" align="left" alt="LinkedIn" width="30px" style="padding-right:10px;" src="./assets/linkedin.svg"/>
