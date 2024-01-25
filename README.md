@@ -39,8 +39,8 @@ My journey in the world of programming began in 2023, and I've had the privilege
 <img title="Python" align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 <img title="Java" align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img title="Figma" align="left" alt="Figma" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
-<img title="Adobe Photoshop" align="left" alt="Adobe Photoshop" width="30px" style="padding-right:10px;" src="./assets/photoshop-plain.svg"/>
-<img title="Adobe Illustrator" align="left" alt="Adobe Illustrator" width="30px" style="padding-right:10px;" src="./assets/illustrator-plain.svg"/>
+<img title="Adobe Photoshop" align="left" alt="Adobe Photoshop" width="30px" style="padding-right:10px;" src="./assets/photoshop.svg"/>
+<img title="Adobe Illustrator" align="left" alt="Adobe Illustrator" width="30px" style="padding-right:10px;" src="./assets/illustrator.svg"/>
 <br /><br/>
                    
 ### 🌟 Socials
