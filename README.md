@@ -27,7 +27,7 @@ My journey in the world of programming began in 2023, and I've had the privilege
 <img title="TypeScript" align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
 <img title="Git" align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img title="Node JS" align="left" alt="Node JS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-<img title="Express JS" align="left" alt="Express JS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
+<img title="Express JS" align="left" alt="Express JS" width="30px" style="padding-right:10px;" src="./assets/express-js.svg" />
 <img title="Mongo DB" align="left" alt="Mongo DB" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
 <img title="React JS" align="left" alt="React JS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img title="Next JS" align="left" alt="Next JS" width="30px" style="padding-right:10px;" src="./assets/next-js.png" />
@@ -39,12 +39,13 @@ My journey in the world of programming began in 2023, and I've had the privilege
 <img title="Python" align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 <img title="Java" align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img title="Figma" align="left" alt="Figma" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
-<img title="Adobe Photoshop" align="left" alt="Adobe Photoshop" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg"/>
-<img title="Adobe Illustrator" align="left" alt="Adobe Illustrator" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg"/>
+<img title="Adobe Photoshop" align="left" alt="Adobe Photoshop" width="30px" style="padding-right:10px;" src="./assets/photoshop-plain.svg"/>
+<img title="Adobe Illustrator" align="left" alt="Adobe Illustrator" width="30px" style="padding-right:10px;" src="./assets/illustrator-plain.svg"/>
 <br /><br/>
                    
 ### 🌟 Socials
 
-<img title="Facebook" align="left" alt="Facebook" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" />
-<img title="LinkedIn" align="left" alt="LinkedIn" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/>
-<img title="Behance" align="left" alt="Behance" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/behance/behance-original.svg" />
+<img title="Facebook" align="left" alt="Facebook" width="30px" style="padding-right:10px;" src="./assets/facebook.svg" />
+<img title="Instagram" align="left" alt="Behance" width="30px" style="padding-right:10px;" src="./assets/instagram.svg" />
+<img title="X" align="left" alt="LinkedIn" width="30px" style="padding-right:10px;" src="./assets/x.svg"/>
+<img title="LinkedIn" align="left" alt="LinkedIn" width="30px" style="padding-right:10px;" src="./assets/linkedin.svg"/>
