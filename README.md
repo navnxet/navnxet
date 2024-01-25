@@ -30,7 +30,7 @@ My journey in the world of programming began in 2023, and I've had the privilege
 <img title="Express JS" align="left" alt="Express JS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
 <img title="Mongo DB" align="left" alt="Mongo DB" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
 <img title="React JS" align="left" alt="React JS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img title="Next JS" align="left" alt="Next JS" width="30px" style="padding-right:10px;" src="https://www.drupal.org/files/project-images/nextjs-icon-dark-background.png" />
+<img title="Next JS" align="left" alt="Next JS" width="30px" style="padding-right:10px;" src="./assets/next-js.png" />
 <img title="Docker" align="left" alt="Docker" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" />
 <br/>
 
